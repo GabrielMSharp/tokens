@@ -39,7 +39,7 @@
     },
     "ButtonSpacers": {
       "Default": {
-        "value": "{Size.Regular}"
+        "value": "{Size.Regular}",
         "type": "MadeUp"
       }
     },
