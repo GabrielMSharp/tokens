@@ -21,6 +21,16 @@
         "type": "color"
       }
     },
+    "ColourComponent": {
+      "PrimaryButtonBackground": {
+        "value": "{ColourAlias.Primary}",
+        "type": "color"
+      },
+      "PrimaryButtonTextColour": {
+        "value": "{ColourAlias.Secondary}",
+        "type": "color"
+      }
+    },
     "Size": {
       "Small": {
         "value": "8",
