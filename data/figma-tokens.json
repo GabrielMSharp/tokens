@@ -40,7 +40,7 @@
     "ButtonSpacers": {
       "Default": {
         "value": "{Size.Regular}",
-        "type": "other"
+        "type": "spacing"
       }
     },
     "Layout": {
