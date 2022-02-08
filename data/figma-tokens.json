@@ -30,7 +30,7 @@
       }
     },
     "CardSpacing": {
-      "value": "24",
+      "value": "{Size.Small}",
       "type": "spacing"
     },
     "Layout": {
