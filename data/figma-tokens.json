@@ -33,6 +33,10 @@
       "value": "{Size.Small}",
       "type": "spacing"
     },
+    "CarouselSpacing": {
+      "value": "{Size.Regular}",
+      "type": "spacing"
+    },
     "Layout": {
       "Left": {
         "value": "Left",
