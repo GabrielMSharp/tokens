@@ -37,6 +37,12 @@
       "value": "{Size.Regular}",
       "type": "spacing"
     },
+    "ButtonSpacers": {
+      "Default": {
+        "value": "{Size.Regular}"
+        "type": "MadeUp"
+      }
+    },
     "Layout": {
       "Left": {
         "value": "Left",
