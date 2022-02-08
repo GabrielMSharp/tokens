@@ -1,23 +1,23 @@
 {
   "bloomon": {
     "ColourPalette": {
-      "Brand White": {
+      "Brand-White": {
         "value": "#ffffff",
         "type": "color",
         "description": "We all going on a summer holiday"
       },
-      "Brand Black": {
+      "Brand-Black": {
         "value": "#444444",
         "type": "color"
       }
     },
     "ColourAlias": {
       "Secondary": {
-        "value": "{ColourPalette.Brand White}",
+        "value": "{ColourPalette.Brand-White}",
         "type": "color"
       },
       "Primary": {
-        "value": "{ColourPalette.Brand Black}",
+        "value": "{ColourPalette.Brand-Black}",
         "type": "color"
       }
     },
