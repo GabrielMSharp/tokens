@@ -9,6 +9,11 @@
       "Brand-Black": {
         "value": "#444444",
         "type": "color"
+      },
+      "Coral": {
+        "value": "#FF7F50",
+        "description": "Very nice colour",
+        "type": "color"
       }
     },
     "ColourAlias": {
@@ -19,11 +24,16 @@
       "Primary": {
         "value": "{ColourPalette.Brand-Black}",
         "type": "color"
+      },
+      "Tertiary": {
+        "value": "{ColourPalette.Coral}",
+        "description": "go buy your mudda something nice kid",
+        "type": "color"
       }
     },
     "ColourComponent": {
       "PrimaryButtonBackground": {
-        "value": "{ColourAlias.Primary}",
+        "value": "{ColourAlias.Tertiary}",
         "type": "color"
       },
       "PrimaryButtonTextColour": {
