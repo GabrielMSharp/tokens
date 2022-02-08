@@ -1,0 +1,94 @@
+{
+  "bloomon": {
+    "Colours": {
+      "Background": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "something huge and beautiful"
+      },
+      "TextPrimary": {
+        "value": "#444444",
+        "type": "color"
+      }
+    },
+    "Size": {
+      "Small": {
+        "value": "8",
+        "type": "sizing"
+      },
+      "Regular": {
+        "value": "16",
+        "type": "sizing"
+      },
+      "Large": {
+        "value": "32",
+        "type": "sizing"
+      },
+      "ImageHeight": {
+        "value": "352",
+        "type": "sizing"
+      }
+    },
+    "CardSpacing": {
+      "value": "24",
+      "type": "spacing"
+    },
+    "Layout": {
+      "Left": {
+        "value": "Left",
+        "type": "other"
+      },
+      "Center": {
+        "value": "Center",
+        "type": "other"
+      },
+      "Right": {
+        "value": "Right",
+        "type": "other"
+      }
+    },
+    "BorderRadius": {
+      "value": "16",
+      "type": "borderRadius"
+    },
+    "Font": {
+      "Headline": {
+        "value": "\"Patron\"",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "bloom and wild": {
+    "Colours": {
+      "Background": {
+        "value": "#FCF5EA",
+        "type": "color"
+      }
+    },
+    "BorderRadius": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "Size": {
+      "ImageHeight": {
+        "value": "264",
+        "type": "sizing"
+      }
+    },
+    "Font": {
+      "Headline": {
+        "value": "\"Tiempos Headline\"",
+        "type": "fontFamilies"
+      }
+    },
+    "CardSpacing": {
+      "value": "{space-xs}",
+      "type": "spacing"
+    },
+    "space-xs": {
+      "value": "8",
+      "description": "Our smallest spacing increment",
+      "type": "spacing"
+    }
+  }
+}
